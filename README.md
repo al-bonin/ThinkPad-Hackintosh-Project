@@ -31,14 +31,17 @@ Webcam \
 SATA drivers \
 SideCar (over USB Cable or USB WiFi, no latency) \
 Bluetooth as well as bluetooth earphones, airpods... \
-Shows correct battery serial number and cycles 
+Shows correct battery serial number and cycles \
+ThinkPad Clickpads :) \
+ThinkPad Pointer :) \
+
 
 **Does not work:**
 
-Wifi because of Intel Wireless-AC 9260 \
-Gestures with 3 and 4 fingers :( \
-Battery Life Estimation \
-Sometimes after sleep slow two finger scrolling
+Wifi because of Intel Wireless-AC 9260 (no chance it works, we need to change the wifi card) \
+Gestures with 3 and 4 fingers (normally it worked, it is workable) \
+Battery Life Estimation \ (it is makebla)
+Sometimes after sleep slow two finger scrolling (it can be corrected) \
  
 **Have not checked:**
 
