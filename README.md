@@ -33,7 +33,7 @@ SideCar (over USB Cable or USB WiFi, no latency) \
 Bluetooth as well as bluetooth earphones, airpods... \
 Shows correct battery serial number and cycles \
 ThinkPad Clickpads :) \
-ThinkPad Pointer :) \
+ThinkPad Pointer :) 
 
 
 **Does not work:**
