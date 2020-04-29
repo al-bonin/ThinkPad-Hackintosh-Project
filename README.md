@@ -1,5 +1,12 @@
 # ThinkPad-Hackintosh-Project
 
+-------------------------------
+-I stop this project, because I bought myself a macbook pro 16"
+-with instalments. You can always use the forks
+-I was just hoping to get people encouraged with this one
+-------------------------------.
+
+
 I want to create a EFI database here, that we can see EFIs for newer ThinkPads. It would be easier to have a big DB better than checking 1000 different hubs.
 
 Feel free to give me suggestions or comments, or share your EFI with me to publish here to help people.
@@ -40,9 +47,9 @@ ThinkPad Pointer :)
 
 Wifi because of Intel Wireless-AC 9260 (no chance it works, we need to change the wifi card) \
 Gestures with 3 and 4 fingers (normally it worked, it is workable) \
-Battery Life Estimation \ (it is makebla)
 Sometimes after sleep slow two finger scrolling (it can be corrected) \
  
 **Have not checked:**
 
 Type C USB Video Output 
+Battery Life Estimation \ (macOS doesn't have this feature)
