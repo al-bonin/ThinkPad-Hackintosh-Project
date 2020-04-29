@@ -51,5 +51,5 @@ Sometimes after sleep slow two finger scrolling (it can be corrected) \
  
 **Have not checked:**
 
-Type C USB Video Output 
+Type C USB Video Output \
 Battery Life Estimation \ (macOS doesn't have this feature)
