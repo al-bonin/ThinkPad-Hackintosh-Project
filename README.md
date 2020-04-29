@@ -1,10 +1,9 @@
 # ThinkPad-Hackintosh-Project
 
--------------------------------
--I stop this project, because I bought myself a macbook pro 16"
--with instalments. You can always use the forks
--I was just hoping to get people encouraged with this one
--------------------------------.
+
+I stop this project, because I bought myself a macbook pro 16" \
+with instalments. You can always use the forks \
+I was just hoping to get people encouraged with this one \
 
 
 I want to create a EFI database here, that we can see EFIs for newer ThinkPads. It would be easier to have a big DB better than checking 1000 different hubs.
